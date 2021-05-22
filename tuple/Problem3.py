@@ -1,0 +1,12 @@
+l = ('Alim')
+b = ('Aza')
+c = ('Malika')
+d = ('Moya')
+e = ('Semya')
+a = []
+a.append(l)
+a.append(b)
+a.append(c)
+a.append(d)
+a.append(e)
+print(a)
